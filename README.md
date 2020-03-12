@@ -1,2 +1,2 @@
 # JHLeeeMe-Zsh-Theme
-Zsh-Theme (include git status, virtualenv info)
+Simple Zsh-Theme (include git status, virtualenv info)
