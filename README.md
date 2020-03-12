@@ -1,10 +1,7 @@
 # JHLeeeMe-Zsh-Theme
 Simple Zsh-Theme (include git status, virtualenv info)
 
----
-
 ## Installation
----
 ### Step 1
 clone  
 ```bash
