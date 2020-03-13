@@ -4,6 +4,7 @@ Simple Zsh-Theme (include git status, virtualenv info)
 
 
 ## Installation
+### Oh-My-Zsh
 ### Step 1
 clone  
 ```bash
