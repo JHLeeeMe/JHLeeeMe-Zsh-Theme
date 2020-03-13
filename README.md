@@ -6,13 +6,13 @@ Simple Zsh-Theme (include git status, virtualenv info)
 ## Installation
 ### Oh-My-Zsh
 ### Step 1
-clone  
+Clone  
 ```bash
 git clone https://github.com/JHLeeeMe/JHLeeeMe-Zsh-Theme.git ~/.oh-my-zsh/custom/themes/JHLeeeMe-Zsh-Theme/
 ```
   
 ### Step 2
-edit & update `.zshrc`  
+Edit & Update `.zshrc`  
 ```bash
 $ vi ~/.zshrc  
 ZSH_THEME=JHLeeeMe-Zsh-Theme/JHLeeeMe
