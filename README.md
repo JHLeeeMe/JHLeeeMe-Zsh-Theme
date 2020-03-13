@@ -1,6 +1,7 @@
 # JHLeeeMe-Zsh-Theme
 ![JHLeeeMe-zsh-theme](https://user-images.githubusercontent.com/31606119/76569425-7112a080-64f6-11ea-85c1-08d8431eddcb.png)  
-Simple Zsh-Theme (include git status, virtualenv info)
+It includes only the essentials.  
+(PWD, git status & branch, venv, user & system name, time)
 
 
 ## Installation
