@@ -17,9 +17,9 @@ edit & update `.zshrc`
 $ vi ~/.zshrc  
 ZSH_THEME=JHLeeeMe-Zsh-Theme/JHLeeeMe
 $ source ~/.zshrc
-
-or
-
+```
+Or
+```
 $ sed -i.bak 's/^[[:space:]]*ZSH_THEME=.*/ZSH_THEME="JHLeeeMe-Zsh-Theme\/JHLeeeMe"/' ~/.zshrc
 $ source ~/.zshrc
 ```
