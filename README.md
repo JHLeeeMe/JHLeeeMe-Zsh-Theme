@@ -20,7 +20,7 @@ ZSH_THEME=JHLeeeMe-Zsh-Theme/JHLeeeMe
 $ source ~/.zshrc
 ```
 Or
-```
+```bash
 $ sed -i.bak 's/^[[:space:]]*ZSH_THEME=.*/ZSH_THEME="JHLeeeMe-Zsh-Theme\/JHLeeeMe"/' ~/.zshrc
 $ source ~/.zshrc
 ```
